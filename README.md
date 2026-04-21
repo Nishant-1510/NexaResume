@@ -20,6 +20,16 @@
 <img width="480" height="330" alt="InShot_20260421_183932148-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/fc42c469-a36d-4059-8c1c-40b343544f0a" />
 
 
+### AI-Driven Enhancement
+<img width="480" height="330" alt="InShot_20260421_184107968-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/1c507f7f-9d70-49d1-a1ea-8d6c676ccf74" />
+
+
+### Asset Management & UI Customization
+<img width="480" height="330" alt="video_2026-04-21_18-47-23-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2cfcd54a-1fe1-47a5-b1ab-ac5abf6b795d" />
+
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
@@ -34,9 +44,9 @@
 ---
 
 ## 📁 Project Structure
-/client: Frontend React application with Tailwind CSS.
-/server: Node/Express backend with Gemini AI integration.
-/database: MongoDB schemas for users and resumes.
+- /client: Frontend React application with Tailwind CSS.
+- /server: Node/Express backend with Gemini AI integration.
+- /database: MongoDB schemas for users and resumes.
 
 ## ✍️ Author
 **Nishant Aher** Full Stack Developer & AI Enthusiast
