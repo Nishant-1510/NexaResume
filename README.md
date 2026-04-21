@@ -39,7 +39,7 @@
 | Database | MongoDB |
 | AI Integration | Google Gemini AI |
 | Image Hosting | ImageKit.io |
-| Deployment | Hostinger VPS |
+| Deployment | Vercel |
 
 ---
 
